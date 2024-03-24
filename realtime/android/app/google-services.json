@@ -1,0 +1,87 @@
+{
+  "project_info": {
+    "project_number": "485871613569",
+    "firebase_url": "https://new1-26233-default-rtdb.firebaseio.com",
+    "project_id": "new1-26233",
+    "storage_bucket": "new1-26233.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485871613569:android:56439c94c0f169d1d5ff80",
+        "android_client_info": {
+          "package_name": "com.example.bms"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQZHFrank5aRkScOHsqgD2XWZpreWIlhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485871613569:android:7494cebdb8a92d67d5ff80",
+        "android_client_info": {
+          "package_name": "com.example.flutter_first_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQZHFrank5aRkScOHsqgD2XWZpreWIlhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485871613569:android:c3ecc3dbf37afe83d5ff80",
+        "android_client_info": {
+          "package_name": "com.example.realtime"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQZHFrank5aRkScOHsqgD2XWZpreWIlhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:485871613569:android:52507c57b1082871d5ff80",
+        "android_client_info": {
+          "package_name": "com.example.rfid"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQZHFrank5aRkScOHsqgD2XWZpreWIlhg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
